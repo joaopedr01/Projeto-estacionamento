@@ -1,0 +1,14 @@
+D:\.Estudo\DIO-bootcamp\desafio_estacionamento\bin\Debug\net8.0\desafio_estacionamento.exe
+D:\.Estudo\DIO-bootcamp\desafio_estacionamento\bin\Debug\net8.0\desafio_estacionamento.deps.json
+D:\.Estudo\DIO-bootcamp\desafio_estacionamento\bin\Debug\net8.0\desafio_estacionamento.runtimeconfig.json
+D:\.Estudo\DIO-bootcamp\desafio_estacionamento\bin\Debug\net8.0\desafio_estacionamento.dll
+D:\.Estudo\DIO-bootcamp\desafio_estacionamento\bin\Debug\net8.0\desafio_estacionamento.pdb
+D:\.Estudo\DIO-bootcamp\desafio_estacionamento\obj\Debug\net8.0\desafio_estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Estudo\DIO-bootcamp\desafio_estacionamento\obj\Debug\net8.0\desafio_estacionamento.AssemblyInfoInputs.cache
+D:\.Estudo\DIO-bootcamp\desafio_estacionamento\obj\Debug\net8.0\desafio_estacionamento.AssemblyInfo.cs
+D:\.Estudo\DIO-bootcamp\desafio_estacionamento\obj\Debug\net8.0\desafio_estacionamento.csproj.CoreCompileInputs.cache
+D:\.Estudo\DIO-bootcamp\desafio_estacionamento\obj\Debug\net8.0\desafio_estacionamento.dll
+D:\.Estudo\DIO-bootcamp\desafio_estacionamento\obj\Debug\net8.0\refint\desafio_estacionamento.dll
+D:\.Estudo\DIO-bootcamp\desafio_estacionamento\obj\Debug\net8.0\desafio_estacionamento.pdb
+D:\.Estudo\DIO-bootcamp\desafio_estacionamento\obj\Debug\net8.0\desafio_estacionamento.genruntimeconfig.cache
+D:\.Estudo\DIO-bootcamp\desafio_estacionamento\obj\Debug\net8.0\ref\desafio_estacionamento.dll
